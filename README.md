@@ -1,22 +1,18 @@
-Screenshot 2025-07-11 082545.png
-Screenshot 2025-07-11 082636.png
-Screenshot 2025-07-11 082650.png
-
-# 🎓 Scholarship Allocation Optimizer
+🎓 Scholarship Allocation Optimizer
 
 A web-based tool to manage and optimize scholarship allocation based on student marks, built using **HTML**, **CSS**, and **JavaScript**.  
 It helps universities automate scholarship distribution logic, similar to LPU NEST or internal entrance tests.
 
 ---
 
-## 📸 Demo Screenshot
+📸 Demo Screenshot
 
-> ![Scholarship Optimizer UI](Screenshot 2025-07-11 082545.png)
-> ![Scholarship Optimizer UI](Screenshot 2025-07-11 082636.png)
-> > ![Scholarship Optimizer UI](Screenshot 2025-07-11 082650.png)
+> ![Scholarship Optimizer UI](Screenshot1.png)
+> ![Scholarship Optimizer UI](Screenshot2png)
+ > ![Scholarship Optimizer UI](Screenshot3.png)
 ---
 
-## 📌 Features
+📌 Features
 
 - 🧑‍🎓 Add student name and marks via web form  
 - 📋 Auto-display of all entered students  
@@ -30,7 +26,7 @@ It helps universities automate scholarship distribution logic, similar to LPU NE
 
 ---
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 
 | Frontend  | Language |
 |-----------|----------|
