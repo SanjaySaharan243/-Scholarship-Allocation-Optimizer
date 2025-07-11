@@ -6,10 +6,9 @@ It helps universities automate scholarship distribution logic, similar to LPU NE
 ---
 
 📸 Demo Screenshot
-
-> ![Scholarship Optimizer UI](Screenshot1.png)
-> ![Scholarship Optimizer UI](Screenshot2png)
  > ![Scholarship Optimizer UI](Screenshot3.png)
+> ![Scholarship Optimizer UI](Screenshot2.png)
+> ![Scholarship Optimizer UI](Screenshot1.png)
 ---
 
 📌 Features
